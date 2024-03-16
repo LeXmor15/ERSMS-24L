@@ -5,6 +5,7 @@
 - Bartłomiej Krawczyk
 - Mikołaj Kuranowski
 - Konrad Wojda
+- Alejandro Morales 
 
 ## Setup
 
